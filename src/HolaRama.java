@@ -1,6 +1,6 @@
 public class HolaMundo{
 
     public static void main(String args[]){
-        .out.println("HolaRama");
+        System.out.println("HolaRama");
     }
 }
